@@ -1,3 +1,5 @@
+__Notice__: this is not the testbed code for the paper [Prism: Scaling Bitcoin by 10,000x](https://arxiv.org/abs/1909.11261). Code for the paper will be / has been released at [yangl1996/prism-rust](https://github.com/yangl1996/prism-rust/tree/master/src).
+
 # Prism Distributed Testbed
 
 ## Setting Up
